@@ -1,6 +1,6 @@
-Hi there 👋
+# Hi there 👋
 
-Welcome to my GitHub profile! I’m Radenscc23, a passionate Data Science and AI enthusiast focused on turning complex problems into simple, actionable insights. 🚀
+## Welcome to my GitHub profile! I’m Radenscc23, a passionate Data Science and AI enthusiast focused on turning complex problems into simple, actionable insights. 🚀
 
 - 🔭 I’m currently working on AI models, machine learning algorithms, and exploring data analytics projects.
 
